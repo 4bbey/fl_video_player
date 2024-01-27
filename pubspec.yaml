@@ -1,8 +1,8 @@
 name: fl_abbey_video_player
 description: Fork of modjs_video_player which is a fork of Youtube Player Iframe using Flutter port of the official YouTube iFrame player API. Supports web & mobile platforms.
 version: 1.0.0
-repository: https://github.com/jsml/modjs_video_player
-homepage: https://github.com/jsml/modjs_video_player
+repository: https://github.com/4bbey/fl_video_player
+homepage: https://github.com/4bbey/fl_video_player
 
 environment:
   sdk: '>=2.12.0 <3.0.0'
