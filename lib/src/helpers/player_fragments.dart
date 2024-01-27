@@ -1,4 +1,4 @@
-import 'package:youtube_player_iframe/youtube_player_iframe.dart';
+import 'package:fl_abbey_video_player/fl_abbey_video_player.dart';
 
 ///
 String youtubeIFrameTag(YoutubePlayerController controller) {

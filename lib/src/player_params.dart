@@ -3,7 +3,7 @@
 // found in the LICENSE file.
 
 import 'package:flutter/foundation.dart';
-import 'package:youtube_player_iframe/src/controller.dart';
+import 'package:fl_abbey_video_player/src/controller.dart';
 
 /// Defines player parameters for [YoutubePlayer].
 class YoutubePlayerParams {

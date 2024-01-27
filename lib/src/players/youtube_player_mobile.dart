@@ -10,10 +10,10 @@ import 'package:flutter/gestures.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter/scheduler.dart';
 import 'package:flutter_inappwebview/flutter_inappwebview.dart';
-import 'package:youtube_player_iframe/src/enums/youtube_error.dart';
-import 'package:youtube_player_iframe/src/helpers/player_fragments.dart';
-import 'package:youtube_player_iframe/src/player_value.dart';
-import 'package:youtube_player_iframe/youtube_player_iframe.dart';
+import 'package:fl_abbey_video_player/src/enums/youtube_error.dart';
+import 'package:fl_abbey_video_player/src/helpers/player_fragments.dart';
+import 'package:fl_abbey_video_player/src/player_value.dart';
+import 'package:fl_abbey_video_player/fl_abbey_video_player.dart';
 import 'package:url_launcher/url_launcher.dart' as url_launcher;
 
 import '../controller.dart';
